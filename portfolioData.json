@@ -1,0 +1,72 @@
+
+{
+  "personal": {
+    "name": "Murarisai Tadepalli",
+    "headline": "CSE-IoT Student | Developer | AI & GenAI Enthusiast",
+    "about": "I am Murarisai Tadepalli, a B.Tech CSE-IoT student at VNR VJIET interested in software development, AI, Generative AI, backend development, IoT, and problem solving. I enjoy building practical technical solutions and exploring new technologies.",
+    "interests": [
+      "Software Development",
+      "Artificial Intelligence",
+      "Generative AI",
+      "IoT",
+      "Backend Development",
+      "Problem Solving",
+      "Building practical technical projects",
+      "Hackathons"
+    ]
+  },
+  "education": [
+    {
+      "degree": "B.Tech — Computer Science and Engineering (IoT)",
+      "institution": "VNR VJIET",
+      "duration": ""
+    }
+  ],
+  "skills": {
+    "Programming Languages": ["Python", "C", "Java"],
+    "Backend Development": ["Node.js", "Express.js"],
+    "Database": ["MongoDB", "Mongoose"],
+    "AI / Generative AI": ["Semantic Search", "Large Language Models (LLMs)", "RAG (Retrieval-Augmented Generation)", "LangChain"]
+  },
+  "projects": [
+    {
+      "title": "Piggybacking",
+      "tagline": "A project from my GitHub repository",
+      "description": "Developed and explored piggybacking concepts in network security and data communication.",
+      "tech": ["C", "Python", "Networking"],
+      "links": {
+        "github": "https://github.com/tmurari2007-crypto/intelligent-shipment-piggybacking"
+      }
+    }
+  ],
+  "experience": [],
+  "hackathons": [
+    {
+      "name": "HackWithHyderabad 3.0",
+      "organizer": "Hack With India × Devnovate",
+      "date": "October 3, 2026",
+      "location": "Microsoft Office, Hyderabad",
+      "description": "Participated in an 8-hour technology hackathon.",
+      "certificate": "./assets/certificate.pdf"
+    },
+    {
+      "name": "Software Hackathon (CONVERGENCE 2k26)",
+      "organizer": "VNR VJIET",
+      "date": "September 18-19, 2026",
+      "location": "VNR VJIET, Hyderabad",
+      "description": "Participated in the software hackathon conducted as part of the 27th National Level Annual Technical Symposium.",
+      "certificate": "./assets/hackathon_cert.png"
+    }
+  ],
+  "achievements": [],
+  "profiles": {
+    "github": "https://github.com/tmurari2007-crypto",
+    "linkedin": "https://www.linkedin.com/in/murarisai-tadepalli-03b66b402"
+  },
+  "resume": {
+    "link": "./assets/resume.pdf"
+  },
+  "contact": {
+    "email": "tmurari2007@gmail.com"
+  }
+}
