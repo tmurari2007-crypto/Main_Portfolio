@@ -36,7 +36,7 @@ export const MURARI_KNOWLEDGE = {
     phone: "9154750615",
     linkedin: "https://www.linkedin.com/in/murarisai-tadepalli-03b66b402",
     github: "https://github.com/tmurari2007-crypto",
-    portfolio: "Murarisai Tadepalli Personal Portfolio"
+    portfolio: "https://murari-portfolioo.netlify.app"
   },
   academics: {
     degree: "Bachelor of Technology (B.Tech)",
@@ -156,6 +156,7 @@ Your job is to answer questions from recruiters, students, and collaborators abo
   * Phone: 9154750615
   * LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/murarisai-tadepalli-03b66b402)
   * GitHub: [GitHub Profile](https://github.com/tmurari2007-crypto)
+  * Live Portfolio Website: [murari-portfolioo.netlify.app](https://murari-portfolioo.netlify.app)
 
 - Technical Skills:
   * Programming Languages: Python, C, Java, JavaScript
